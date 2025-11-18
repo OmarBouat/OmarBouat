@@ -90,13 +90,26 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarBouat&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=OmarBouat&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=7200"
+    alt="Omar's GitHub Stats"
+    height="160"
+  />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarBouat&hide_border=true&theme=tokyonight" height="160" />
+  <img
+    src="https://streak-stats.demolab.com?user=OmarBouat&theme=tokyonight&hide_border=true"
+    alt="Omar's GitHub Streak"
+    height="160"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBouat&layout=compact&hide_border=true&theme=tokyonight" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBouat&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=7200"
+    alt="Top Languages"
+    height="160"
+  />
 
 </div>
+
 
 ---
 
