@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Engineering+Student;Competitive+Programmer;Hackathon+Winner;Tech+Community+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Engineering+Student;Competitive+Programmer;Hackathons+Challenger;CPC+FSS+Mentor" alt="Typing SVG" />
 </p>
 
 ---
